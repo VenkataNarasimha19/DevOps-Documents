@@ -1,0 +1,68 @@
+DATE Roadmap for a DevOps Engineer:
+
+Free DevOps Playlist:    • DEVOPS ZERO TO HERO COURSE  
+AWS Zero to Hero Playlist:    • AWS Zero to Hero - AWS Simplified  
+Terraform Zero to Hero Playlist:    • Terraform Zero to Hero  
+Python for DevOps Playlist:    • Python for DevOps  
+
+DATE -- DevOps, AWS or Azure, Terraform, Python Zero to Hero Courses.
+
+DevOps -- 
+1. Understand the SDLC
+2. Understand the Fundamentals of Linux, How to create VM Machines and Difference
+3. Shell Commands & Write Basic Shell Scripts.
+4. GIT Version Control System (Just understand about SVN & CVS then practice more  on Distributed Version Control System), GitHub.
+5. Ansible ---> Understand Basics & Practice Configuration Management with 2 to 3 Machines
+6. Terraform ---> Understand the Basics of Terraform
+7. CI/CD -- Jenkins or GitHub Actions
+8. Docker -- Understand the Process of Containers(VM/Container), Volumes, Networks
+9. Kubernetes --- Pods, Services, Ingress, Simple K8s Clusters + CI/CD
+10. Observability -- Logs, Monitoring
+
+
+AWS
+1. Cloud Platform
+2. IAM -- User, Group, Service, Roles
+3. Compute -- Virtual Machines
+4. VPC (Virtual Private Cloud) --- Different Components of VPC
+5. Storage Services
+6. CI/CD on Cloud
+7. Monitors -- Nodes, CronJobs, state
+8. Serverless services
+9. Kubernetes -- ECR, ECS, EKS 
+10. CI/CD -- GITOPS  Complicate CICD
+11. Compliance & Security.
+12 . IaC -- Terraform on AWS
+13. On-premises to Cloud
+
+
+Iac -- Terraform on AWS --- Implement all the Concepts of Terraform on AWS and Practice more
+1. what is IaC
+2. Providers
+3. Write Terraform Templates -- init, plan, apply
+4. State file
+5. Provisioners
+6. Secrets for sensitive information
+7. Variable Presidense
+8. Terraform Project -- EKS+VPC
+
+
+Python --- 
+NumPy, Pandas, 
+Shell Scripts to Python
+Variables
+Expressions
+Functions
+Loops
+Modules
+File Operations
+JIRA
+
+
+
+
+
+
+
+
+

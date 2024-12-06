@@ -1,0 +1,119 @@
+Day to Day Activities & Role and Responsibilities:
+
+Day to Day Activities:
+
+Once Reached Office, Need to check emails,  teams messages &  JIRA & ServiceNow tickets which are newly received and which are assigned to me.
+
+As a DevOps engineer or cloud engineer, i start my day by monitoring the pipelines, infrastructure, if there was any deployment overnight, stability of the infrastructure and services they providing to the organization. after that i attend the standup meetings which defines the priority for the day, based on how the infrastructure is stabile and what actions have to perform.
+
+
+Infrastructure Monitor & Management: Check the infrastructure is up and running using Grafana and will look into the issue and will fix it.
+CICD Pipeline Update/Creation: Basically, we edit & modify the existing CICD pipeline and we create CICD pipeline for new project.
+Configuration Management using Ansible for any updates or changes as per user request.
+we use Terraform as an Infrastructure as Code for provisioning the infrastructure.
+Monitoring & Logging on daily basis and we use Prometheus Grafana for Monitoring.
+Incident & Managing tool Service or JIRA: Engage the time on tickets and resolve them with in the time frame.
+Daily standup meetings with team and clients -- to know the current status, issues, enhancements i the project.
+Confluence: Make a document and post in Confluence page for reference
+
+
+Tell us about your self(AWS/DevOps)
+How do you start your day at work?
+I start my day with:
+1 - Checking email/ServiceNow/JIRA Tickets
+2 - Checking Notifications from Monitoring System
+3 - Ensuring that there is not critical alert un attended
+4 - provide Help and support to Developers & Operations Teams.
+5 - Providing support for Production servers
+6 - Automation Admin Repetitive Tasks
+7 - Creating Jenkins Pipeline/Jobs for Deployment
+8 - Supporting existing Infra and creating New Servers
+9 - Deploying code on Dev & Prod Servers
+10 - Checking for Proper Approvals before code Release.
+
+I am Responsible for:
+1 - Build and Release Process
+2 - Managing User access on Resources(Grant/Revoke)
+3 - Managing GIT Branches
+4 - Automation(Jenkins/Ansible)
+5 - Server & Applications Support
+6 - Ensuring Backup and Creating Backup Policy
+
+DevOps Best Practices:
+1 - Automate as much as possible(DevOps & Testing)
+2 - Have Clear Requirement (Requirement Gathering)
+3 - Minimize Impact User Impact(Reduce Downtime)
+4 - Regression testing before release
+5 - Make Things immutable
+6 - Don't Make Changes on Individual Servers
+7 - Ensure to Maintain Release steps book
+8 - Run Test cases after each deployment
+9 - CI-CD Implementation
+10 - Continuous Monitoring.
+
+
+DevOps Engineer Responsibilities
+CI/CD Pipelines:
+Design, build, and optimize CI/CD pipelines for seamless application deployment.
+Collaborate with development teams to create CI pipelines and CD deployment groups aligned with sprint releases.
+
+Infrastructure Automation:
+Automate infrastructure provisioning using Terraform for efficient and consistent deployments.
+Implement configuration management with Ansible to ensure standardization across environments.
+
+Containerization and Orchestration:
+Containerize applications using Docker and manage orchestration with Kubernetes.
+Scale Kubernetes clusters up and down based on application and database load.
+
+Cloud Infrastructure Management:
+Utilize AWS services like EC2, VPC, IAM, S3, CloudWatch, Auto Scaling Groups, and Elastic Load Balancers to optimize scalability and cost-effectiveness.
+Perform cloud infrastructure builds and ensure the operational excellence of environments.
+
+Monitoring and Logging:
+Use Nagios to monitor GPS networking signals and assess equipment health.
+Handle application logs and metrics, integrating them into dashboards or tools like Tableau and ServiceNow for reporting.
+
+System Support and Troubleshooting:
+Provide remote support for Windows-based test equipment and control machines.
+Perform firmware updates, firewall configurations, and run remediation scripts for vulnerability issues.
+
+Networking and Communication:
+Assign IP addresses and ensure network communication for test equipment and Control machines.
+Manage connectivity between test equipment and control systems.
+
+Test Equipment Calibration and Support:
+Support test equipment calibration and ensure accurate measurements for operations.
+Address technical issues and maintain service excellence for test equipment.
+
+Collaboration:
+Work closely with cross-functional teams to streamline release processes.
+Engage with development and operations teams to drive automation and improve system reliability.
+
+
+
+
+
+Role Description for DevOps Engineer:
+Designing and implementing CI/CD pipelines to automate application build, test, and deployment processes.
+Automating infrastructure provisioning and management using tools like Terraform and Ansible.
+Managing and orchestrating containerized applications with Docker and Kubernetes for scalability and resilience.
+Monitoring, troubleshooting, and optimizing cloud infrastructure on platforms like AWS, Azure, or GCP.
+Ensuring infrastructure security, cost efficiency, and adherence to compliance standards.
+Collaborating with development teams to implement best practices for continuous integration and delivery.
+Utilizing tools like Nagios or CloudWatch for performance monitoring and proactive issue resolution.
+
+This role is critical in driving automation, improving system scalability, and ensuring smooth and efficient delivery pipelines.
+
+
+Roles and Responsibilities of a DevOps Engineer:
+Build & Maintains CI/CD Pipelines: Automate code integration, testing, and deployment using Git and Jenkins for seamless and efficient releases.
+Infrastructure as Code (IaC): Use Terraform to define and manage AWS infrastructure like EC2, S3, VPC, and IAM programmatically.
+Configuration Management: Automate server configurations and software installations with Ansible to maintain consistency and reduce manual efforts.
+Containerization and Orchestration: Use Docker to package applications into containers and Kubernetes to manage, scale, and orchestrate containerized applications effectively.
+Cloud Infrastructure Management: Work with AWS services (e.g., EC2, S3, CloudWatch, Auto Scaling Groups, Elastic Load Balancers) to host scalable and cost-efficient cloud solutions.
+Monitoring and Troubleshooting: Set up AWS tools like CloudWatch and third-party solutions to monitor applications, identify issues, and ensure optimal performance.
+Collaboration: Work closely with developers and operations teams to streamline workflows and ensure successful deployments.
+Security Implementation: Use IAM for access control, manage secrets securely, and ensure systems follow AWS and DevOps security best practices.
+Automation: Automate tasks like deployments, scaling, and backups using Jenkins pipelines, Terraform, and Ansible playbooks.
+Documentation: Maintain clear documentation for processes, pipelines, and infrastructure setups to support team collaboration and onboarding.
+
